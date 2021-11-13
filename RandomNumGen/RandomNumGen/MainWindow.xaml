@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:RandomNumGen"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <Grid Background="#FFABDEFF">
         <Label Content="JamJam Random Number Generator Grade For Test" HorizontalAlignment="Center" Margin="0,39,0,0" VerticalAlignment="Top" FontSize="24"/>
         <Label Content="Min" HorizontalAlignment="Left" Margin="153,114,0,0" VerticalAlignment="Top" FontSize="18"/>
         <Label Content="Max" HorizontalAlignment="Left" Margin="146,0,0,0" VerticalAlignment="Center" FontSize="18"/>
